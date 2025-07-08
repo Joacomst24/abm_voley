@@ -52,7 +52,7 @@ Cada jugador cuenta con los siguientes campos:
 
 ## 🧑‍💻 Autores
 
-- **Joaquin Marek** **Camila Gonzalez** **Roman Quiroga**  
+- **Joaquin Marek**-**Camila Gonzalez**-**Roman Quiroga**  
   Técnicos en Programación - Escuela Técnica  
   Proyecto realizado en 6to año
 
